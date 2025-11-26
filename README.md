@@ -11,7 +11,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/niloy-kumar-mondal-757987380) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCCWHb9wkqRrj1X75ruQmYEQ) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nkm2105044@gmail.com)
+[![Email](https://img.shields.io/badge/nkm2105044@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:nkm2105044@gmail.com)
 
 ---
 
