@@ -1,18 +1,26 @@
-# 💫 About Me:
-***Hi, This is Niloy Kumar Mondal***
+<div align="center">
 
+<br/>
 
-## 🌐 Socials:
+# <span style="font-size: 68px; line-height: 1.1; font-weight: 900; background: linear-gradient(90deg, #00D4FF, #FF00FF, #00FF99); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 0 0 30px rgba(0, 212, 255, 0.6);">Hi, This is Niloy Kumar Mondal</span>
+
+<br/>
+<br/>
+
+## 🌐 Socials
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/niloy-kumar-mondal-757987380) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCCWHb9wkqRrj1X75ruQmYEQ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nkm2105044@gmail.com) 
 
 ## 🔬 Research Interests
-- Quantum Computing  
-- Quantum Complexity Theory  
-- Quantum Algorithms  
-- Post-Quantum Cryptography  
-- Shadow Tomography  
-- Quantum Machine Learning  
 
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; margin: 20px 0;">
+  <div style="background: rgba(0,212,255,0.1); border: 1px solid #00D4FF; border-radius: 12px; padding: 14px; text-align: center; transition: all 0.3s;">Quantum Computing</div>
+  <div style="background: rgba(255,0,255,0.1); border: 1px solid #FF00FF; border-radius: 12px; padding: 14px; text-align: center; transition: all 0.3s;">Quantum Complexity Theory</div>
+  <div style="background: rgba(0,255,153,0.1); border: 1px solid #00FF99; border-radius: 12px; padding: 14px; text-align: center; transition: all 0.3s;">Quantum Algorithms</div>
+  <div style="background: rgba(0,212,255,0.1); border: 1px solid #00D4FF; border-radius: 12px; padding: 14px; text-align: center; transition: all 0.3s;">Post-Quantum Cryptography</div>
+  <div style="background: rgba(255,0,255,0.1); border: 1px solid #FF00FF; border-radius: 12px; padding: 14px; text-align: center; transition: all 0.3s;">Shadow Tomography</div>
+  <div style="background: rgba(0,255,153,0.1); border: 1px solid #00FF99; border-radius: 12px; padding: 14px; text-align: center; transition: all 0.3s;">Quantum Machine Learning</div>
+</div>
 
 ### 🔬 Quantum Computing Libraries,Frameworks and Platforms
 ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=qiskit&logoColor=white)
