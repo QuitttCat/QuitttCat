@@ -19,9 +19,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Quantum_Computing-1E90FF?style=for-the-badge&logoColor=white&color=1E90FF&labelColor=222">
-  <img src="https://img.shields.io/badge/Complexity_Theory-8A2BE2?style=for-the-badge&logoColor=white&color=8A2BE2&labelColor=222">
+  <img src="https://img.shields.io/badge/Quantum Complexity_Theory-8A2BE2?style=for-the-badge&logoColor=white&color=8A2BE2&labelColor=222">
   <img src="https://img.shields.io/badge/Quantum_Algorithms-3CB371?style=for-the-badge&logoColor=white&color=3CB371&labelColor=222">
-  <img src="https://img.shields.io/badge/Post--Quantum_Crypto-1E90FF?style=for-the-badge&logoColor=white&color=1E90FF&labelColor=222">
+  <img src="https://img.shields.io/badge/Post--Quantum_Cryptography-1E90FF?style=for-the-badge&logoColor=white&color=1E90FF&labelColor=222">
   <img src="https://img.shields.io/badge/Shadow_Tomography-8A2BE2?style=for-the-badge&logoColor=white&color=8A2BE2&labelColor=222">
   <img src="https://img.shields.io/badge/Quantum_Machine_Learning-3CB371?style=for-the-badge&logoColor=white&color=3CB371&labelColor=222">
 </p>
